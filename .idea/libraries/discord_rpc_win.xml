@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="discord-rpc-win">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../Downloads/wq/Firehand designs/discord-rpc-win.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
